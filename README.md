@@ -6,6 +6,17 @@ when placing, sizing, or managing a crypto trade.
 
 This is **not** the Occasion Speech Writer. That product stays in
 [`Acaydia/quickie`](https://github.com/Acaydia/quickie) at the repository root.
+This desk was split out of `quickie` so the two products are not mixed.
+
+## Home
+
+The trading desk lives **here**. Do not add trading files, skills, or Related
+pointers back into `Acaydia/quickie`.
+
+## PR policy
+
+All future crypto / trading desk work lands in this repository **only via
+pull requests**. Do not push straight to `main`.
 
 ## Layout
 
