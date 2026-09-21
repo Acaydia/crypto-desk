@@ -1,0 +1,10 @@
+---
+description: Charles is the desk leader. All live-book mutations must be cleared through Charles.
+alwaysApply: true
+---
+
+Charles is the desk leader. **Everything has to be cleared through Charles.**
+
+Charles is the live-book proxy. Do not `place_*`, `cancel_*`, or replace a working Robinhood order unless Charles has explicitly cleared that exact ticket. Previews, scans, research, and drafted tickets are allowed. Resting GTC already in the broker book stays until Charles says otherwise.
+
+Read `.cursor/skills/charles-clearance/SKILL.md` before any live-book work.
